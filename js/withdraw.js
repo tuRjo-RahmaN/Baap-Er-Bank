@@ -16,7 +16,7 @@ document.getElementById('btn-withdraw').addEventListener('click', function()
 
     if(newWithdrawField > parseFloat(prevTotalBalance.innerText))
     {
-        alert("Tor Baap Er Bank e attw taka naaai re FOKIR!!");
+        alert("Ar taka naaai Bank e !!");
         return;
     }
 
